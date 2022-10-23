@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cartoon_Charactor>
+	<!--Описание льва Бонифация из мультфильма "Каникулы Бонифация"-->
+	<Name sex="Male">Boniface</Name>
+	<Cartoon_animal>Lion</Cartoon_animal>
+	<!-- Лев в длину от 1,8 до 2,1 м -->
+	<Height UM ="Metr">1.8</Height>
+	<!-- Премьера мультфильма состоялась 14 октября 65 года. -->
+	<!-- Поэтому этот день можно считать днём рождения персонажа -->
+	<Data_birthday type="Data">14/10/1965</Data_birthday>
+	<Place_birth>Africa</Place_birth>
+	<Relatives>Grandma_lion</Relatives>
+	<Family_status>Single</Family_status>
+	<!-- Первоисточник о Бонифации был написан чешским писателем.-->
+	<!-- Поэтому, Бонифаций живёт и работает в Чехословакии -->
+	<Place_of_residence continent = "Europe">
+		<Country category ="Europe_country">Czechoslovakia</Country>
+		<City category ="Europe_city">Prague</City>
+	</Place_of_residence>
+	<Work>
+		<Place category ="Circus">Large Circus Prague</Place>
+		<Post>Acrobat</Post>
+	</Work>
+	<Personality>Kind, talented, calm, smart</Personality>
+	<Hobby>Fishing and travaling</Hobby>
+	<Dream>Catch a goldfish</Dream>
+	<Favorite_food category = "Fruit">Bananas</Favorite_food>
+	<!-- Vest подразумевается как тельняжка, которую Бонифаций носил в Африке -->
+	<!-- В конце мультфильма бабушка связала льву свитер -->
+	<Favorite_clother>Sailor's vest, Grandmother's sweater</Favorite_clother>
+	<!-- Бонифаций за время каникул подружился с местными детьми и показывал им цирковые представления -->
+	<!-- Цитата из мультфильма: "Все очень любили Бонифация, а директор цирка часто говаривал: "Бонифаций - это талант!"" -->
+	<Friends>Children from Africa, circus Director and staff</Friends>
+</Cartoon_Charactor>
